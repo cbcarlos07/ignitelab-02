@@ -20,7 +20,7 @@ interface GetLessonsQueryResponse {
         slug: string
         availableAt: string
         lessonType: 'live' | 'class'
-    }
+    }[]
 }
 
 export function Sidebar() {
