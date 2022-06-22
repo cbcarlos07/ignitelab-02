@@ -22,6 +22,22 @@ Quando o backend retorna muitos dados desnecessários
 
 Quando o backend não retorna dados necessários
 
-# Apollo
+## Apollo
 
     npm i @apollo/client graphql
+
+## Figma
+
+    https://www.figma.com/file/MhuARUouImipFnkPsU0qTI/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=8%3A399
+
+## Phosphor react
+
+Para ícones
+
+    npm install --save phosphor-react
+
+## Date fns
+
+Para formatar datas
+
+    npm i date-fns
