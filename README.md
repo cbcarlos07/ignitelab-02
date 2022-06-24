@@ -41,3 +41,9 @@ Para ícones
 Para formatar datas
 
     npm i date-fns
+
+## Classnames
+
+    npm i classnames
+
+    import classnames from 'classNames'
